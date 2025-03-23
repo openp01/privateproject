@@ -1,0 +1,15 @@
+<svg width="300" height="80" viewBox="0 0 300 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Le R avec la croix -->
+  <g fill="#FFFFFF">
+    <path d="M25,10 C35,10 45,15 45,30 C45,45 35,50 25,50 L15,50 L15,70 L5,70 L5,10 L25,10 Z M15,20 L15,40 L25,40 C30,40 35,37 35,30 C35,23 30,20 25,20 L15,20 Z" />
+    <!-- Croix verte -->
+    <rect x="20" y="30" width="20" height="10" fill="#4CAF50" />
+    <rect x="25" y="25" width="10" height="20" fill="#4CAF50" />
+  </g>
+  
+  <!-- Texte "La Renaissance" -->
+  <text x="65" y="30" font-family="Arial" font-size="24" font-weight="bold" fill="#FFFFFF">La Renaissance</text>
+  
+  <!-- Texte "CABINET PARAMÉDICAL" -->
+  <text x="65" y="55" font-family="Arial" font-size="14" fill="#4CAF50">CABINET PARAMÉDICAL</text>
+</svg>
